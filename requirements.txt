@@ -1,0 +1,13 @@
+streamlit
+numpy
+pandas
+matplotlib
+astropy
+astroquery
+lightkurve
+transitleastsquares
+scikit-learn
+tensorflow
+plotly
+scipy
+requests
